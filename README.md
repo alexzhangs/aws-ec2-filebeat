@@ -9,7 +9,7 @@ sudo yum install -y git
 git clone https://github.com/alexzhangs/aws-ec2-filebeat.git
 ```
 
-## Installation Filebeat
+## Install Filebeat
 
 Filebeat is not avalaible in AWS built-in yum repo, you will need
 to provide a repo URL to this script.
