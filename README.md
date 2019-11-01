@@ -2,6 +2,8 @@
 
 Install Filebeat on AWS EC2 instance.
 
+Tested with Filebeat 5.x.
+
 ## Get code
 
 ```
